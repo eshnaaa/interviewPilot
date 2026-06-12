@@ -1,4 +1,4 @@
-# 🤖 AI InterviewSim
+# 🤖 InterviewPilot
 
 [![CI](https://github.com/rahulprajapati08/AI-InterviewSim/actions/workflows/ci.yml/badge.svg)](https://github.com/rahulprajapati08/AI-InterviewSim/actions/workflows/ci.yml)
 [![Docker Image](https://img.shields.io/badge/docker-ready-blue.svg)](https://hub.docker.com/)
@@ -7,21 +7,23 @@
 [![Open Source](https://badgen.net/badge/status/open%20source/green)](https://github.com/rahulprajapati08/AI-InterviewSim)
 
 
-AI InterviewSim is a full-stack AI-powered interview simulation platform designed to help candidates prepare for technical and HR interviews. The system mimics a real interview environment with live behavioral analysis, voice interaction, coding assessments, and personalized feedback — all within a modern, interactive UI.
+InterviewPilot is an AI-powered placement preparation platform designed to help students and job seekers practice realistic interviews, identify skill gaps, and improve their readiness for recruitment processes. The platform combines AI-driven interview generation, resume-based questioning, coding assessments, behavioral analysis, and personalized learning recommendations to create a comprehensive interview preparation experience.
+
 
 ---
 
 ## 🚀 Features
+* 📄 Resume-Based Interview Generation
+* 🎙️ Voice-Powered AI Interviews
+* 🧑‍💻 Coding Assessment Environment
+* 📹 Real-Time Behavioral Analysis
+* 📊 Placement Readiness Score
+* 🧠 Skill Gap Detection
+* 📈 Personalized Learning Roadmaps
+* 🏢 Company-Specific Interview Modes
+* 📝 Interview History & Performance Analytics
+* 🔐 Secure JWT Authentication
 
-- 🎙️ Voice-to-Voice Interview: Interact with an AI recruiter through real-time voice-based Q&A.
-- 🧑‍💻 Coding Round with Live Editor: Practice DSA and technical problems with an integrated editor.
-- 📹 Real-Time Behavioral Analysis: Tracks eye contact, posture, and focus using webcam-based computer vision.
-- 📊 Confidence & Hesitation Scoring: AI analyzes audio/visual cues to score your confidence and fluency.
-- 📝 Interview History & Analytics: Tracks your progress, highlights strengths/weaknesses over time.
-- 📈 Performance Analysis: Detailed feedback after each session, including coding efficiency and soft skills.
-- 🎓 Preparation Guidance: Smart course and topic recommendations based on your interview performance.
-- 🔐 JWT-based Authentication
-- 🧪 CI/CD with GitHub Actions
 
 ---
 
@@ -92,7 +94,7 @@ GitHub Actions is configured to:
 ---
 
 ## 🧑‍💻 Author
-Rahul Prajapati – @rahulprajapati08
+Eshna Gothalwal -------------- eshnagothawal666@gmail.com
 
 ---
 
